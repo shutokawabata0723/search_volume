@@ -1,7 +1,7 @@
 # search_volume
 
 ### how to use
-change file name or code in the program to "suggest.dat"
+change file name or code in the program to "suggest_list.dat"
 ```
 python Search_volume.py
 ```
