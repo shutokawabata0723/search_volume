@@ -25,6 +25,3 @@ https://opensource.org/licenses/MIT
 
 # Author
 Shuto Kawabata
-
-|TD1|TD3|
-|TD2|TD4|
