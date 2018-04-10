@@ -5,16 +5,10 @@ change file name or code in the program to "suggest_list.dat"
 ```
 python Search_volume.py
 ```
+IN: suggest_list.dat
 
-### input
-```
-suggest_list.dat
-```
+OUT: volume_list.csv
 
-### output
-```
-volume_list.csv
-```
 # Licence
 
 CopyRight (c) 2018 Shuto Kawabata
